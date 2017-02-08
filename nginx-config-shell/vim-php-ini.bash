@@ -1,0 +1,1 @@
+sudo vim /usr/local/php/etc/php.ini
